@@ -1,0 +1,7 @@
+{
+    "sketch": "multi_watering_system.ino",
+    "configuration": "softdevice=s132v6,debug=l0",
+    "board": "adafruit:nrf52:feather52832",
+    "programmer": "adafruit:nrfutil_boot",
+    "port": "COM4"
+}
